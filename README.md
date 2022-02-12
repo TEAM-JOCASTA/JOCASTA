@@ -1,6 +1,12 @@
-### JOCASTA 
-## THIS USERBOT IS UNDERWORKING
-### DEPLOY BUTTON IS ONLY READY FOR TESTING
+### THIS REPO IS UNDER DEVELOPMENT
+<h2 align="center"><b>Owner: <a href="https://telegram.dog/CAZADOR_OP">JATIN</a></b></h2>
+<br>
+<p align="center"><a href="https://t.me/JOCASTA_SUPPORT"><img src="https://telegra.ph/file/a107ff17cd0be73227619.jpg"></a></p> 
+</p>
+<h1>JOCASTA</h1>
+<b>A Powerful, Smart And Simple Userbot In Telethon.</b>
+<br>
+
 
 # Deploy
 
