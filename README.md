@@ -1,6 +1,6 @@
 ### JOCASTA 
 ## THIS USERBOT IS UNDERWORKING
-https://replit.com/@Jaggi444/JOCASTA#main.py
+### DEPLOY BUTTON IS ONLY READY FOR TESTING
 
 # Deploy
 
