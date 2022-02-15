@@ -24,43 +24,33 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is MAMBA User",
-      "value": "MAMBA",
+      "description": "Fill your Full name. By default it is JOCASTA User",
+      "value": "JOCASTA",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .pyalive Or .op  Command.",
-      "value": "MAMBA 𝐈𝐬 Online",
+      "description": "Set Custom Alive Message When entering .alive  Command.",
+      "value": ",
       "required": false
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@MAMBA_X_SUPPORT",
+      "value": "@JOCASTA_SUPPORT",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@MAMBA_X_SUPPORT",
+      "value": "@JOCASTA_SUPPORT",
       "required": false
-    },
-    "EXTRA_PLUGIN": {
-      "description": "Set ON OR OFF",
-      "value": "ON",
-      "required": true
-    },
-    "ASSISTANT": {
-      "description": "Set ON OR OFF",
-      "value": "ON",
-      "required": true
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive command.",
-      "value": "https://telegra.ph/file/a8a793a8716bdcc923fd3.jpg",
+      "value": "https://telegra.ph/file/6ff87934968ca431ebe2b.jpg",
       "required": false
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/a8a793a8716bdcc923fd3.jpg",
+      "value": "https://telegra.ph/file/6ff87934968ca431ebe2b.jpg",
       "required": true
     },
     "MAX_FLOOD_IN_PM": {
@@ -102,15 +92,15 @@
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "Create a private group and  add @Missrose_bot then type /id add that value here for save messages",
-      "value": "-1001761712036"
+      "value": ""
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add @Missrose_bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-1001761712036"
+      "value": ""
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
-       "value": "-1001761712036"
+       "value": ""
     }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://replit.com",
