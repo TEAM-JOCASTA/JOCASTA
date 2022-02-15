@@ -2,14 +2,13 @@
 <b> 𓄂 Jᴏᴄᴀsᴛᴀ Usᴇʀʙᴏᴛ</b>
 </h1>
 
-[![ELITESBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/ElitesOS/ElitesUB)
+[![ELITESBOT](https://te.legra.ph/file/6ff87934968ca431ebe2b.jpg)](https://github.com/ElitesOS/ElitesUB)
 
 <h3 align=center>
 <b> Jᴏᴄᴀsᴛᴀ Usᴇʀʙᴏᴛ Is Oɴᴇ Oғ Tʜᴇ Bᴇsᴛ Aɴᴅ Sᴍᴏᴏᴛʜᴇsᴛ Bᴏᴛ Oɴ Tᴇʟᴇɢʀᴀᴍ</b>
 </h3>
 
 <p align=center>
-
 <a href=https://github.com/TEAM-JOCASTA/JOCASTA/network/members alt=GitHub forks> <img src=https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logo=github /> </a>
 <a href=https://www.python.org/ alt=Made-With-Python> <img src=https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue /> </a>
 <a href=https://github.com/TEAM-JOCASTA/JOCASTA/blob/master/LICENSE alt=GPLv3 license> <img src=https://img.shields.io/badge/License-GPLv3-blue.svg /> </a>
@@ -32,8 +31,6 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-JOCASTA/JOCASTA)
 
-[![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
-
 ---------
 
 ## ∆- Vᴀʀɪᴀʙʟᴇs
@@ -48,7 +45,7 @@
 ------
 
 ## ∆- Sᴛʀɪɴɢ Sᴇssɪᴏɴ 
-- Go to our [Group](https://t.me/ElitesUB) & send #stringsession.
+- Go to our [Group](https://t.me/JocastaUB) & send #stringsession.
 
 ------
 ## ∆- Dɪsᴄʟᴀɪᴍᴇʀ
@@ -66,9 +63,9 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-ElitesOS
+TEAM-JOCASTA
 
-Poject [Eʟɪᴛᴇs Usᴇʀʙᴏᴛ](https://github.com/ElitesOS/ElitesUB) is free software: you can redistribute it and/or modify
+Poject [Jᴏᴄᴀsᴛᴀ Usᴇʀʙᴏᴛ](https://github.com/TEAM-JOCASTA/JOCASTA) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
