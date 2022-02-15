@@ -1,7 +1,7 @@
 
 
 #clonning repo 
-RUN git clone https://github.com/TEAM-JOCASTA/JOCASTA.git /root/userbot
+RUN git clone https://github.com/TEAM-JOCASTA/JOCASTA-PLUGING.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
