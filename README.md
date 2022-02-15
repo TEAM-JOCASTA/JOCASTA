@@ -1,5 +1,5 @@
 ### THIS REPO IS UNDER DEVELOPMENT
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/CAZADOR_OP">JATIN</a></b></h2>
+<h2 align="center"><b>Owner: <a href="https://telegram.dog/THE_BROTHERHOOD_COUNCIL">TBH</a></b></h2>
 <br>
 <p align="center"><a href="https://t.me/JOCASTA_SUPPORT"><img src="https://telegra.ph/file/a107ff17cd0be73227619.jpg"></a></p> 
 </p>
