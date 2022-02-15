@@ -30,7 +30,7 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive  Command.",
-      "value": ",
+      "value": "",
       "required": false
     },
     "YOUR_GROUP": {
