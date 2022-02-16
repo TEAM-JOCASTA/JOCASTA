@@ -22,8 +22,8 @@
 ------------
 
 ## ∆- Sᴜᴘᴘᴏʀᴛ
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-darkred)](https://t.me/ElitesUB)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-darkred)](https://t.me/Official_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-darkred)](https://t.me/JocastaSupport)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-darkred)](https://t.me/JocastaUB)
 
 ------------
 
@@ -45,7 +45,7 @@
 ------
 
 ## ∆- Sᴛʀɪɴɢ Sᴇssɪᴏɴ 
-- Go to our [Group](https://t.me/JocastaUB) & send #stringsession.
+- Go to our [Group](https://t.me/JocastaSupport) & send #stringsession.
 
 ------
 ## ∆- Dɪsᴄʟᴀɪᴍᴇʀ
