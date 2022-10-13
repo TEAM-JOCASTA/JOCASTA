@@ -93,7 +93,7 @@ if Config.ENABLE_ASSISTANTBOT == "ENABLE":
     sed.info("╚══════════════════❍⊱❁۪۪")
 else:
     sed.info("Jocasta Has Been Installed Sucessfully !")
-    sed.info("You Can Visit @JOCASTA_SUPPORT For Any Support Or Doubts")
+    sed.info("You Can Visit @TEAM_BLACK_SUPPORT For Any Support Or Doubts")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
